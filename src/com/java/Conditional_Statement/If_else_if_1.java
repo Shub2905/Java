@@ -1,11 +1,15 @@
 package com.java.Conditional_Statement;
+import java.util.*;
 
 public class If_else_if_1 {
 
 	public static void main(String[] args)
 	{
+	Scanner sc = new Scanner (System.in);
+		
 	int mobile_price=100000;
-	int Balance = 55000;
+	System.out.println("Enter Your Budget");
+	int Balance = sc.nextInt();
 	 if(mobile_price<=Balance )
 	 {System.out.println("You can buy Apple");}
 	 else if(mobile_price==90000)

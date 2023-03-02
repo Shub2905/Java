@@ -1,10 +1,16 @@
 package com.java.Conditional_Statement;
 
+import java.util.Scanner;
+
 public class If_Else_if_2 
 {
 public static void main(String[] args)
+
 {
-	int marks_Scored = 34;
+	Scanner sc = new Scanner(System.in);
+	System.out.println("Enter marks Scored");
+	
+	int marks_Scored = sc.nextInt();
 	
 	if (marks_Scored>=90)
 		{System.out.println("Congratulations you are above 90 ");}
