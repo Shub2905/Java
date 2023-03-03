@@ -6,6 +6,7 @@ public class If_else_if_1 {
 	public static void main(String[] args)
 	{
 	Scanner sc = new Scanner (System.in);
+	
 		
 	int mobile_price=100000;
 	System.out.println("Enter Your Budget");
