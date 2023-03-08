@@ -1,10 +1,17 @@
 package com.java.Method_Calling;
 
+import com.java.DiffPack.DiffPackDiffClass;
+
 public class Same_class 
 {public static void main(String[] args)
 {
 		
-	
+	method1();
+	method2();
+	Diffrent_Class.method5();// write Class_name.method_name
+	Diffrent_Class.method6();
+	DiffPackDiffClass.method3();
+	DiffPackDiffClass.method4();
 	
 	
 	

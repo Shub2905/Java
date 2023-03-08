@@ -11,3 +11,5 @@ public class Diffrent_Class
 		 System.out.println("i am static method 6 called from Diffrent class");
 	 }
 }
+
+
