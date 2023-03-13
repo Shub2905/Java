@@ -12,7 +12,8 @@ public static void main(String[] args)
 	System.out.println("Enter Amount");  // getting amount
 	int Amount =sc.nextInt();            // to a varStoring it in var
 	System.out.println("Enter your pin "); //Getting Pin
-	int Pin = sc.nextInt();                //Storing pin
+	int Pin = sc.nextInt();       //Storing pin
+	sc.close();
 	if(Amount>Balance)
 	{System.out.println("Insufficent Fund");}
 	
