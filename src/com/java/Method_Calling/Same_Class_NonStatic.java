@@ -1,6 +1,6 @@
 package com.java.Method_Calling;
 
-import com.java.DiffPack.DiffPackDiffClass;
+//import com.java.DiffPack.DiffPackDiffClass;
 import com.java.DiffPack.DiffPackDiffClass_NonStatic;
 
 public class Same_Class_NonStatic 
