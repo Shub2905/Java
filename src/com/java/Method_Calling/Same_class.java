@@ -5,9 +5,11 @@ import com.java.DiffPack.DiffPackDiffClass;
 public class Same_class 
 {public static void main(String[] args)
 {
-		
-	method1();
-	method2();
+	Same_class.method1();
+	Same_class obj = new Same_class();
+			obj.method1();
+	
+	
 	Diffrent_Class.method5();// write Class_name.method_name
 	Diffrent_Class.method6();
 	DiffPackDiffClass.method3();
