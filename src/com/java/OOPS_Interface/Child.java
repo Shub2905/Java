@@ -30,10 +30,11 @@ public class Child implements Interface1,Interface2
 
 	public static void main(String[] args) 
 	{
-		Child objk = new Child();
-		objk.met1();
-		objk.met2();
-		objk.met3();
-		objk.met4();
+//		Child objk = new Child();
+//		objk.met1();
+//		objk.met2();
+//		objk.met3();
+//		objk.met4();
+		
 	}
 }
