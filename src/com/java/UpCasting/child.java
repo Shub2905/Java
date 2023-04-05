@@ -21,7 +21,7 @@ public class child
 
 	public static void main(String[] args)
 	{
-		Parent yt =new child();
-		yt.
+		//Parent yt =new child();
+		
 	}
 }
