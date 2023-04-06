@@ -8,7 +8,7 @@ public class Star_PAttern {
            {System.out.print("*");}
               System.out.println("");
 }
-//INverse Triangle
+//Inverse Triangle
       for(int row=6; row >=0;row--)
       {
     	  for(int coloum=1;coloum<=row;coloum++)
